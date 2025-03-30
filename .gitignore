@@ -398,3 +398,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.angular/cache/19.2.5/simple-angular-todo-app/vite
